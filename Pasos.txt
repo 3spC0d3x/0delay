@@ -1,0 +1,14 @@
+Spanish
+Pasos para descargar 0 delay by 3spC0d3x 
+1.-Te instalas el rar quitas el antivirus y extraes el rar.
+2.-Ejecutas el sourcecode que tiene una imagen de fortnite y te esperas unos 5 segundos le das mas informacion y ejecutar de todas formas.
+3.-Abres el .bat posteriormente al source code se te reiniciara y cuando entres a fn ya estara aplicado.
+4.-El programa se guarda en la confi de fn por lo que no hay que volverlo a instalarlo ni inicarlo .
+5.-En caso de querer borrarlo tano solo ejecuta el source code por segunda vez y espera.
+English
+Steps to download 0 delay by 3spC0d3x
+1.-You install the rar, remove the antivirus and extract the rar.
+2.-You execute the source code that has a fortnite image and wait about 5 seconds, give it more information and execute in all ways.
+3.-Open the .bat after the source code, it will restart and when you enter fn it will already be applied.
+4.-The program is saved in the fn configuration so you do not have to reinstall it or start it.
+5.-If you want to delete it, just run the source code a second time and wait.
